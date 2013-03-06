@@ -42,7 +42,7 @@ An Experimental Git Dating Site: Alpha
 ```
 
 ##Create a date
-* Step 1: In your branches `date` folder create a file with the name of the user you wish to date 
+* Step 1: In your branches `dates` folder create a file with the name of the user you wish to date 
 * Step 2: Commit and push to your branch
 * Step 3: Submit a pull request to the user you wish to date.
 
