@@ -4,7 +4,7 @@ GitSome
 An Experimental Git Dating Site: Alpha
 
 ##How to create a profile
-* Step 1: Cone the repo 
+* Step 1: Clone the repo 
 
 ```
 % git clone git@github.com:evan108108/gitsome.git
