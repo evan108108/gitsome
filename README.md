@@ -12,7 +12,7 @@ An Experimental Git Dating Site: Alpha
 * Step 2: Create a new branch from the profile branch with your profile name
 
 ```
-% git checkout Your_Git_Username -b profile
+% git checkout -b Your_Git_Username profile
 ```
 * Step 3: Create your profile by editing the file profile.md 
 * Step 4: Change the name of profile.md to 'Your_Git_Username.md'
