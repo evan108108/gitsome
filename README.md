@@ -46,5 +46,5 @@ An Experimental Git Dating Site: Alpha
 * Step 2: Commit and push to your branch
 * Step 3: Submit a pull request to the user you wish to date.
 
-##Except a date
+##Accept a date
 * Step 1: Simply merge any pull requests on your branch to except
